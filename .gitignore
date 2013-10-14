@@ -1,0 +1,10 @@
+# Microsoft Excel temporary files
+~*.[xlsx]*
+
+# Altium Project Files
+History
+Project Logs for *
+__Previews
+
+# ARIA Library random stuff
+.svn
